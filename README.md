@@ -1,1 +1,1 @@
-# Data-Campus-project
+## 김부각 해외 시장 트렌드 분석 & 마켓 포지셔닝
