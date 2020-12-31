@@ -8,9 +8,10 @@
 - 클러스터링, 토픽 모델링, 네트워크 분석
    
     
+------------
 
 # 발표 PPT
-------------
+
 
 목차
 ============================================
@@ -18,8 +19,9 @@
 ![슬라이드2](https://user-images.githubusercontent.com/56110972/103419776-de073c00-4bd7-11eb-8d57-8495e63092a2.PNG)
 
 
+------------
+
 1. 주제 정의
-============================================
 
 ![슬라이드5](https://user-images.githubusercontent.com/56110972/103419784-e790a400-4bd7-11eb-8779-8b178668cd63.PNG)
 
@@ -29,17 +31,17 @@
 
 ![슬라이드8](https://user-images.githubusercontent.com/56110972/103419829-07c06300-4bd8-11eb-96ad-1ae6159c1e28.PNG)
 
+------------
 
 2. 트렌드 탐색
-============================================
 
 ![슬라이드10](https://user-images.githubusercontent.com/56110972/103419840-0e4eda80-4bd8-11eb-95c8-da54c64dd61d.PNG)
 
 ![슬라이드11](https://user-images.githubusercontent.com/56110972/103419843-10b13480-4bd8-11eb-907f-523440ebf3f7.PNG)
 
+------------
 
 3. 데이터 분석
-============================================
 
 ![슬라이드13](https://user-images.githubusercontent.com/56110972/103419879-3f2f0f80-4bd8-11eb-9721-1b7496e2d2b0.PNG)
 
@@ -91,9 +93,9 @@
 
 ![슬라이드37](https://user-images.githubusercontent.com/56110972/103420036-d1cfae80-4bd8-11eb-83be-8df026ee08a7.PNG)
 
+------------
 
 4. 전략 제시
-============================================
 
 ![슬라이드39](https://user-images.githubusercontent.com/56110972/103420062-e90e9c00-4bd8-11eb-8fbc-ab3e4476777b.PNG)
 
