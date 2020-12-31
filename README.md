@@ -16,7 +16,7 @@
 
 > 목차    
 [1. 주제 정의](https://github.com/JH-debug/Data-Campus-Project/blob/master/README.md#1-%EC%A3%BC%EC%A0%9C-%EC%A0%95%EC%9D%98)    
-[2. 트렌드 탐색](https://github.com/JH-debug/Data-Campus-Project#2-%ED%8A%B8%EB%A0%8C%EB%93%9C-%ED%83%90%EC%83%89)    
+[2. 트렌드 탐색](https://github.com/JH-debug/Data-Campus-Project/blob/master/README.md#2-%ED%8A%B8%EB%A0%8C%EB%93%9C-%ED%83%90%EC%83%89)    
 [3. 데이터 분석](https://github.com/JH-debug/Data-Campus-Project#3-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D)    
 [4. 전략 제시](https://github.com/JH-debug/Data-Campus-Project#4-%EC%A0%84%EB%9E%B5-%EC%A0%9C%EC%8B%9C)    
 
