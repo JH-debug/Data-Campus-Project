@@ -21,7 +21,7 @@
 
 ------------
 
-1. 주제 정의
+# 1. 주제 정의
 
 ![슬라이드5](https://user-images.githubusercontent.com/56110972/103419784-e790a400-4bd7-11eb-8779-8b178668cd63.PNG)
 
@@ -33,7 +33,7 @@
 
 ------------
 
-2. 트렌드 탐색
+# 2. 트렌드 탐색
 
 ![슬라이드10](https://user-images.githubusercontent.com/56110972/103419840-0e4eda80-4bd8-11eb-95c8-da54c64dd61d.PNG)
 
@@ -41,7 +41,7 @@
 
 ------------
 
-3. 데이터 분석
+# 3. 데이터 분석
 
 ![슬라이드13](https://user-images.githubusercontent.com/56110972/103419879-3f2f0f80-4bd8-11eb-9721-1b7496e2d2b0.PNG)
 
@@ -95,7 +95,7 @@
 
 ------------
 
-4. 전략 제시
+# 4. 전략 제시
 
 ![슬라이드39](https://user-images.githubusercontent.com/56110972/103420062-e90e9c00-4bd8-11eb-8fbc-ab3e4476777b.PNG)
 
